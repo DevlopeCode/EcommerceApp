@@ -1,5 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+# Demo
+<img src="https://raw.githubusercontent.com/DevlopeCode/EcommerceApp/main/1.jpg" alt="Alt text" width="200" height="300"/>
+<img src="https://raw.githubusercontent.com/DevlopeCode/EcommerceApp/main/2.jpg" alt="Alt text" width="200" height="300"/>
+<img src="https://raw.githubusercontent.com/DevlopeCode/EcommerceApp/main/3.jpg" alt="Alt text" width="200" height="300"/>
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
